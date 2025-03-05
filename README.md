@@ -16,7 +16,7 @@ GET https://go-cep-clima-727490326131.us-central1.run.app/weather?cep=01001000
 
 ## Requisitos
 
-- Go 1.21 ou superior
+- Go 1.23 ou superior
 - Docker e Docker Compose
 - Chave de API do WeatherAPI (cadastre-se em https://www.weatherapi.com/)
 
